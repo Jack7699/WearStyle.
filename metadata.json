@@ -1,0 +1,6 @@
+{
+  "name": "Wearstyle",
+  "description": "Premium Moroccan streetwear brand specializing in heavyweight t-shirts and hoodies, featuring secure COD & card checkout, nationwide delivery, and inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
